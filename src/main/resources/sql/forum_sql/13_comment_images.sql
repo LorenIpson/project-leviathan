@@ -1,0 +1,3 @@
+INSERT INTO leviathan.dbo.comment_images (comment_id, image_url, deletehash, uploaded_at, member_id, is_temp) VALUES (1, N'https://i.imgur.com/mSS4cex.png', N'9aCdkjO1cmY1bi6', N'2025-04-08 01:57:00.5583630', 2, 0);
+INSERT INTO leviathan.dbo.comment_images (comment_id, image_url, deletehash, uploaded_at, member_id, is_temp) VALUES (4, N'https://i.imgur.com/rteUmkX.png', N'3ZkDRG71gnMTgBs', N'2025-04-08 02:01:29.7790160', 3, 0);
+INSERT INTO leviathan.dbo.comment_images (comment_id, image_url, deletehash, uploaded_at, member_id, is_temp) VALUES (5, N'https://i.imgur.com/PVZN0HS.jpeg', N'VtfMdE1DvlFS2hg', N'2025-04-08 02:04:00.0831690', 3, 0);

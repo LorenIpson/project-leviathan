@@ -1,0 +1,15 @@
+INSERT INTO leviathan.dbo.comments_votes (comment_id, member_id, vote, created_at) VALUES (1, 1, 1, N'2025-04-08 01:59:11.2013280');
+INSERT INTO leviathan.dbo.comments_votes (comment_id, member_id, vote, created_at) VALUES (1, 2, 1, N'2025-04-08 01:57:16.7834660');
+INSERT INTO leviathan.dbo.comments_votes (comment_id, member_id, vote, created_at) VALUES (1, 3, 1, N'2025-04-08 02:02:34.7806430');
+INSERT INTO leviathan.dbo.comments_votes (comment_id, member_id, vote, created_at) VALUES (4, 3, 1, N'2025-04-08 02:02:37.5602560');
+INSERT INTO leviathan.dbo.comments_votes (comment_id, member_id, vote, created_at) VALUES (5, 3, 1, N'2025-04-08 02:04:05.0012320');
+INSERT INTO leviathan.dbo.comments_votes (comment_id, member_id, vote, created_at) VALUES (8, 1, 1, N'2025-04-08 02:23:35.7410580');
+INSERT INTO leviathan.dbo.comments_votes (comment_id, member_id, vote, created_at) VALUES (13, 2, 1, N'2025-04-08 02:48:07.9025830');
+INSERT INTO leviathan.dbo.comments_votes (comment_id, member_id, vote, created_at) VALUES (13, 3, 1, N'2025-04-08 02:42:43.5814970');
+INSERT INTO leviathan.dbo.comments_votes (comment_id, member_id, vote, created_at) VALUES (14, 2, 1, N'2025-04-08 02:48:05.5789220');
+INSERT INTO leviathan.dbo.comments_votes (comment_id, member_id, vote, created_at) VALUES (14, 3, 1, N'2025-04-08 02:42:50.8991330');
+INSERT INTO leviathan.dbo.comments_votes (comment_id, member_id, vote, created_at) VALUES (15, 2, 1, N'2025-04-08 02:48:10.1539140');
+INSERT INTO leviathan.dbo.comments_votes (comment_id, member_id, vote, created_at) VALUES (18, 1, -1, N'2025-04-08 02:58:44.2856320');
+INSERT INTO leviathan.dbo.comments_votes (comment_id, member_id, vote, created_at) VALUES (18, 2, -1, N'2025-04-08 02:57:49.3793680');
+INSERT INTO leviathan.dbo.comments_votes (comment_id, member_id, vote, created_at) VALUES (19, 1, 1, N'2025-04-08 02:58:42.2316850');
+INSERT INTO leviathan.dbo.comments_votes (comment_id, member_id, vote, created_at) VALUES (19, 3, 1, N'2025-04-08 02:58:30.7828540');

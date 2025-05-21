@@ -1,0 +1,17 @@
+INSERT INTO leviathan.dbo.categories (name, color) VALUES (N'動作', null);
+INSERT INTO leviathan.dbo.categories (name, color) VALUES (N'RPG', null);
+INSERT INTO leviathan.dbo.categories (name, color) VALUES (N'FPS', null);
+INSERT INTO leviathan.dbo.categories (name, color) VALUES (N'開放世界', null);
+INSERT INTO leviathan.dbo.categories (name, color) VALUES (N'多人', null);
+INSERT INTO leviathan.dbo.categories (name, color) VALUES (N'生存', null);
+INSERT INTO leviathan.dbo.categories (name, color) VALUES (N'賽車', null);
+INSERT INTO leviathan.dbo.categories (name, color) VALUES (N'Battle Royal', null);
+INSERT INTO leviathan.dbo.categories (name, color) VALUES (N'Live Service', null);
+INSERT INTO leviathan.dbo.categories (name, color) VALUES (N'格鬥', null);
+INSERT INTO leviathan.dbo.categories (name, color) VALUES (N'運動', null);
+INSERT INTO leviathan.dbo.categories (name, color) VALUES (N'球類', null);
+INSERT INTO leviathan.dbo.categories (name, color) VALUES (N'模擬', null);
+INSERT INTO leviathan.dbo.categories (name, color) VALUES (N'益智', null);
+INSERT INTO leviathan.dbo.categories (name, color) VALUES (N'策略', null);
+INSERT INTO leviathan.dbo.categories (name, color) VALUES (N'節奏', null);
+INSERT INTO leviathan.dbo.categories (name, color) VALUES (N'恐怖', null);

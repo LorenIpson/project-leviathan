@@ -1,0 +1,14 @@
+INSERT INTO leviathan.dbo.posts_views (post_id, member_id, viewed_at) VALUES (1, 1, N'2025-04-08 01:54:59.4403350');
+INSERT INTO leviathan.dbo.posts_views (post_id, member_id, viewed_at) VALUES (2, 3, N'2025-04-08 02:08:52.0936370');
+INSERT INTO leviathan.dbo.posts_views (post_id, member_id, viewed_at) VALUES (3, 1, N'2025-04-08 02:22:05.2112470');
+INSERT INTO leviathan.dbo.posts_views (post_id, member_id, viewed_at) VALUES (3, 2, N'2025-04-08 02:20:26.1383090');
+INSERT INTO leviathan.dbo.posts_views (post_id, member_id, viewed_at) VALUES (5, 1, N'2025-04-08 02:28:30.0412390');
+INSERT INTO leviathan.dbo.posts_views (post_id, member_id, viewed_at) VALUES (5, 3, N'2025-04-08 02:29:29.8632960');
+INSERT INTO leviathan.dbo.posts_views (post_id, member_id, viewed_at) VALUES (6, 3, N'2025-04-08 02:33:22.4355540');
+INSERT INTO leviathan.dbo.posts_views (post_id, member_id, viewed_at) VALUES (7, 1, N'2025-04-08 02:40:32.3076610');
+INSERT INTO leviathan.dbo.posts_views (post_id, member_id, viewed_at) VALUES (7, 3, N'2025-04-08 02:40:46.1358110');
+INSERT INTO leviathan.dbo.posts_views (post_id, member_id, viewed_at) VALUES (8, 1, N'2025-04-08 02:53:53.1527810');
+INSERT INTO leviathan.dbo.posts_views (post_id, member_id, viewed_at) VALUES (8, 3, N'2025-04-08 02:52:55.5872780');
+INSERT INTO leviathan.dbo.posts_views (post_id, member_id, viewed_at) VALUES (9, 2, N'2025-04-08 02:57:35.7287860');
+INSERT INTO leviathan.dbo.posts_views (post_id, member_id, viewed_at) VALUES (11, 1, N'2025-04-08 03:12:25.7492110');
+INSERT INTO leviathan.dbo.posts_views (post_id, member_id, viewed_at) VALUES (14, 1, N'2025-04-08 03:16:15.7834970');

@@ -1,0 +1,43 @@
+spring:
+  application:
+    name: game_forum_api
+
+  datasource:
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    url: jdbc:sqlserver://localhost:1433;database=leviathan;trustServerCertificate=true
+    username: watcher
+    password: P@ssw0rd
+
+  jpa:
+    database-platform: org.hibernate.dialect.SQLServerDialect
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+    hibernate:
+      ddl-auto: validate
+      naming:
+        implicit-strategy: org.hibernate.boot.model.naming.ImplicitNamingStrategyLegacyJpaImpl
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+  servlet:
+    multipart:
+      max-request-size: 10MB
+      max-file-size: 10MB
+#  security:
+#    user:
+#      name: watcher
+#      password: P@ssw0rd
+# Servlet
+server:
+  servlet:
+    session:
+      tracking-modes: cookie
+# jwt
+jwt:
+  token:
+    expire: 120
+
+# 前端專案路徑配置
+frontend:
+  project:
+    path: C:/game_forum_ui

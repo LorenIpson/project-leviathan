@@ -1,0 +1,16 @@
+:r C:\EEITFINAL\Forum_SQL\1_categories.sql
+:r C:\EEITFINAL\Forum_SQL\2_forums.sql
+:r C:\EEITFINAL\Forum_SQL\3_categories_forums.sql
+:r C:\EEITFINAL\Forum_SQL\4_forum_detail.sql
+:r C:\EEITFINAL\Forum_SQL\5_forums_moderators.sql
+:r C:\EEITFINAL\Forum_SQL\6_forum_tags.sql
+:r C:\EEITFINAL\Forum_SQL\7_forum_fav.sql
+:r C:\EEITFINAL\Forum_SQL\8_posts.sql
+:r C:\EEITFINAL\Forum_SQL\9_post_images.sql
+:r C:\EEITFINAL\Forum_SQL\10_posts_tags.sql
+:r C:\EEITFINAL\Forum_SQL\11_posts_votes.sql
+:r C:\EEITFINAL\Forum_SQL\12_comments.sql
+:r C:\EEITFINAL\Forum_SQL\13_comment_images.sql
+:r C:\EEITFINAL\Forum_SQL\14_comments_votes.sql
+:r C:\EEITFINAL\Forum_SQL\15_posts_views.sql
+:r C:\EEITFINAL\Forum_SQL\16_forums_moderators.sql

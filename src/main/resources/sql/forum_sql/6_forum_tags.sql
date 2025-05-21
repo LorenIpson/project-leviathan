@@ -1,0 +1,15 @@
+INSERT INTO leviathan.dbo.forum_tags (forum_id, name, is_active, color) VALUES (1, N'PlayStation', 1, N'tag-dark-blue');
+INSERT INTO leviathan.dbo.forum_tags (forum_id, name, is_active, color) VALUES (1, N'PC', 1, N'tag-dark-blue');
+INSERT INTO leviathan.dbo.forum_tags (forum_id, name, is_active, color) VALUES (1, N'Xbox', 1, N'tag-dark-blue');
+INSERT INTO leviathan.dbo.forum_tags (forum_id, name, is_active, color) VALUES (1, N'情報', 1, N'tag-light-green');
+INSERT INTO leviathan.dbo.forum_tags (forum_id, name, is_active, color) VALUES (1, N'攻略', 1, N'tag-light-green');
+INSERT INTO leviathan.dbo.forum_tags (forum_id, name, is_active, color) VALUES (1, N'求助', 1, N'tag-orange');
+INSERT INTO leviathan.dbo.forum_tags (forum_id, name, is_active, color) VALUES (1, N'Fan-Art', 1, N'tag-pink');
+INSERT INTO leviathan.dbo.forum_tags (forum_id, name, is_active, color) VALUES (1, N'Cosplay', 1, N'tag-pink');
+INSERT INTO leviathan.dbo.forum_tags (forum_id, name, is_active, color) VALUES (1, N'攝影模式', 1, N'tag-pink');
+INSERT INTO leviathan.dbo.forum_tags (forum_id, name, is_active, color) VALUES (1, N'Meme', 1, N'tag-pink');
+INSERT INTO leviathan.dbo.forum_tags (forum_id, name, is_active, color) VALUES (1, N'分享', 1, N'tag-pink');
+INSERT INTO leviathan.dbo.forum_tags (forum_id, name, is_active, color) VALUES (2, N'Season 6', 1, N'tag-light-green');
+INSERT INTO leviathan.dbo.forum_tags (forum_id, name, is_active, color) VALUES (3, N'NS2', 1, N'tag-dark-blue');
+INSERT INTO leviathan.dbo.forum_tags (forum_id, name, is_active, color) VALUES (3, N'PlayStation', 1, N'tag-dark-blue');
+INSERT INTO leviathan.dbo.forum_tags (forum_id, name, is_active, color) VALUES (3, N'PC', 1, N'tag-dark-blue');
